@@ -37,5 +37,6 @@
 
 <ul>
 <li><b>GOES Satellite image plotter</b></li>
-<ul><li>https://colab.research.google.com/github/tjturnage/satellite/blob/master/Satellite_plot.ipynb</li></ul>
+<ul><li>https://colab.research.google.com/github/tjturnage/satellite/blob/master/Satellite_plot.ipynb</li>
+<li><a href="https://www.youtube.com/watch?v=_uSjRsQaD0g" target="_blank">Satellite Book Club presentation</a></li></ul>
 </ul>
