@@ -1,3 +1,10 @@
+## Colab Overview/References
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=g0xu9DA4gDw" target="_blank">Colab overview YouTube video</a></li>
+<li><a href="https://sites.google.com/a/noaa.gov/nws-wr-stid/projects/code-sharing" target="_blank">NWS WR Code Sharing (NOAA/NWS access only)</a></li>
+</ul>
+
 
 ## Text products 
 <ul>
@@ -9,8 +16,6 @@
 <ul>
   <li><b>Get SPC mesoanalysis data</b></li>
   <ul><li>https://colab.research.google.com/github/tjturnage/get-spc-meso-data/blob/main/get_spc_mesoanalysis_data.ipynb</li></ul>
-  <li><b>Download AWS Archive II files</b></li>
-  <ul><li> https://colab.research.google.com/github/tjturnage/radar/blob/main/Download_AWS_WSR_88D_data.ipynb</li></ul>
 </ul>
 
 ## Damage Assessment Toolkit  
@@ -22,6 +27,10 @@
 
 
 ## Radar 
+<ul>
+  <li><b>Download AWS Archive II files</b></li>
+  <ul><li> https://colab.research.google.com/github/tjturnage/radar/blob/main/Download_AWS_WSR_88D_data.ipynb</li></ul>
+</ul>
 
 <ul>
   <li><b>Plot MRMS Rotation Tracks or Hail Swaths</b></li>
@@ -32,6 +41,12 @@
 <li><b>Plot Iowa State NEXRAD Reflectivity Mosaics</b></li>  
 <ul><li>https://colab.research.google.com/github/tjturnage/radar/blob/main/Plot_NEXRAD_mosaics.ipynb</li></ul>
 </ul>
+
+<ul>
+<li><b>VWP hodographs</b></li>  
+<ul><li>https://colab.research.google.com/github/scottthomaswx/RadarHodographs/blob/main/RadarHodograph_Loop.ipynb</li></ul>
+</ul>
+
 
 ## Satellite
 
